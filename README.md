@@ -1,1 +1,2 @@
-# penguin-fashion-tailwind-rh in html
+# penguin-fashion
+Used Html, css and Tailwin CSS
